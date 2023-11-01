@@ -108,3 +108,9 @@ h1{
 .pie, .group,.database,.headset{
       font-size:34px;
 }
+
+.boxes{
+        display:grid;
+        grid-template-columns:repeat(4, minmax(300px,1fr));
+        grid-gap:7px;
+}
