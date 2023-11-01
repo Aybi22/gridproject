@@ -27,7 +27,13 @@ section{
 img{
     display:block;
 }
-            
+
+li{
+    display:flex;
+    flex-direction:column;
+    align-items: center;
+    justify-content: center;
+}
 
 nav ul{
         margin:0;
