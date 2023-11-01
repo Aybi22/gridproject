@@ -1,4 +1,13 @@
-*{
+body{
     background-color: beige;
      font-family: verdana; 
+}
+
+nav ul{
+        margin:0;
+        padding:0;
+}
+
+nav li{
+       list-style: none;
 }
