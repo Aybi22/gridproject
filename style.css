@@ -101,7 +101,7 @@ h1{
 
 .cards{
     display:grid;
-    width:700px;
+    
     grid-template-columns:repeat(4,1fr);
     gap:7px;
 }
@@ -121,6 +121,7 @@ h1{
 
 .boxes{
         display:grid;
-        grid-template-columns:repeat(4, minmax(300px,1fr));
-        grid-gap:7px;
+        grid-template-columns:repeat(4,1fr);
+       width:900px;
+       row-gap:11px;
 }
