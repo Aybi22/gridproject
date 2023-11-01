@@ -162,3 +162,9 @@ footer{
     padding:14px;
     
 }
+
+@media screen and(max-width:700px){
+                nav ul{
+                    grid-template-columns: 1fr;
+                }
+}
