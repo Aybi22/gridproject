@@ -134,7 +134,7 @@ h1{
 }
 
 .boxes{
-        
+     border:4px solid black;   
 }
 .pie, .group,.database,.headset{
       font-size:34px;
