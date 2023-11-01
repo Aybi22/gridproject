@@ -21,6 +21,36 @@ nav li{
     
 }
 
+.top-container{
+            margin-top:55px;
+            
+            display:grid;
+            grid-template-columns:repeat(2,1fr);
+            grid-gap:22px;
+}
+
+.image{
+      position:relative;
+}
+img{
+    max-width:100%;
+}
+.text{
+       position:absolute;
+       top:35px;
+       left:25px;
+       
+}
+.top{
+     font-size:12px;
+     width:400px;
+}
+h1{
+    font-size:25px;
+}
+
+
+
 .txt{
       text-transform: capitalize;
       font-size:x-small;
@@ -44,4 +74,37 @@ nav li{
      text-align:center;
      margin-bottom:2%;
      height:auto;
+}
+
+.card p{
+    font-size:xx-small;
+    width:200px;
+    margin-top:11px;
+    
+}
+.card{
+       display:flex;
+       flex-direction:column;
+       align-items: center;
+       justify-content: center;
+       border:4px solid black;
+       padding:7px;
+}
+
+.cards{
+    display:grid;
+    grid-template-columns:repeat(4,1fr);
+    gap:7px;
+}
+.title{
+     font-size:12px;
+     text-transform:capitalize;
+     margin-top:11px;
+}
+
+.boxes{
+        margin-top:55px;
+}
+.pie, .group,.database,.headset{
+      font-size:34px;
 }
