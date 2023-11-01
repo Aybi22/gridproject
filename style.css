@@ -131,3 +131,11 @@ h1{
           grid-template-columns: repeat(2,1fr);
           margin-top:55px;
 }
+
+footer{
+    font-size:11px;
+    color:#FFF;
+    background:#000;
+    text-align:center;
+    padding:11px;
+}
