@@ -125,3 +125,9 @@ h1{
        width:900px;
        row-gap:11px;
 }
+
+.section-content{
+          display:grid;
+          grid-template-columns: repeat(2,1fr);
+          margin-top:55px;
+}
