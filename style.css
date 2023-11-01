@@ -30,7 +30,8 @@ nav li{
 
 .top-container{
             margin-top:55px;
-            
+            margin-left:45px;
+            width:900px;
             display:grid;
             grid-template-columns:repeat(2,1fr);
             grid-gap:22px;
