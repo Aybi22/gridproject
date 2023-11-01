@@ -9,9 +9,10 @@ body{
         width:1300px;
         margin:auto;
 }
-.page-content{
-            margin-left:20px;
+section{
+    margin-bottom: 23px;
 }
+            
 
 nav ul{
         margin:0;
