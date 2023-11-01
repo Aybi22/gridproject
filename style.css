@@ -1,6 +1,7 @@
 body{
     background-color: beige;
      font-family: verdana; 
+     width:1400px;
 }
 
 nav ul{
@@ -100,6 +101,7 @@ h1{
      font-size:12px;
      text-transform:capitalize;
      margin-top:11px;
+    font-weight:900;
 }
 
 .boxes{
