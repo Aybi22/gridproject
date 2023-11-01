@@ -1,7 +1,8 @@
 body{
     background-color: beige;
      font-family: verdana; 
-     width:1400px;
+     width:1500px;
+     margin:auto;
 }
 
 nav ul{
