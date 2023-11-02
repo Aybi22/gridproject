@@ -28,6 +28,7 @@ section{
 
 img{
     display:block;
+    object-fit:cover;
 }
 
 li{
