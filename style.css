@@ -164,7 +164,7 @@ h1{
 .boxes{
         display:grid;
         grid-template-columns: repeat(auto-fit,200px);
-        
+        width:900px;
         gap:11px;
        
 }
