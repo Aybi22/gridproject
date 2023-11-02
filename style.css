@@ -167,6 +167,7 @@ h1{
         grid-template-columns: repeat(auto-fit,200px);
         width:100%;
         gap:11px;
+        background-color: gainsboro;
        
 }
 
@@ -186,8 +187,17 @@ footer{
     
 }
 
-@media screen and(max-width:700px){
-                nav ul{
-                    grid-template-columns: 1fr;
-                }
+@media screen and (max-width:600px){
+    nav ul{
+        grid-template-columns: 1fr;
+    }
+.top-container{
+grid-template-columns:1fr;
+}
+.box-container{
+grid-template-columns:1fr;
+}
+.cards{
+grid-template-columns:1fr;
+}
 }
