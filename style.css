@@ -163,8 +163,8 @@ h1{
 
 .boxes{
         display:grid;
-        grid-template-columns: repeat(4,1fr);
-        width:860px;
+        grid-template-columns: repeat(auto-fill,300px);
+        
         gap:11px;
        
 }
