@@ -14,10 +14,11 @@ body{
      font-family: verdana; 
      height:100vh;
      margin:auto;
+     width:1500px;
 }
 .page-container{
         height: auto;
-        width:1500px;
+        
         margin:auto;
 }
 section{
