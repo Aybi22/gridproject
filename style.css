@@ -68,7 +68,7 @@ nav li{
 
 .top-container{
            
-           
+           border:4px solid black;
             grid-gap:22px;
             display:grid;
             grid-template-columns:repeat(auto-fit,600px);
