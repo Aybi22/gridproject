@@ -16,7 +16,7 @@ body{
      margin:auto;
 }
 .page-container{
-       
+        height: auto;
         width:1300px;
         margin:auto;
 }
