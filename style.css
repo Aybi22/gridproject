@@ -152,7 +152,7 @@ h1{
 .cards{
     display:grid;
     width:100%;
-    grid-template-columns:repeat(auto-fit,1fr);
+    grid-template-columns:repeat(auto-fit,700px);
     gap:7px;
 }
 .title{
