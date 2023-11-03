@@ -43,6 +43,8 @@ li{
     align-items: center;
     justify-content: center;
     margin-bottom:5px;
+    background: #000;
+    color:#FFF;
 }
 li span{
     font-size:22px;
