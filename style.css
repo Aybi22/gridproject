@@ -196,5 +196,13 @@ footer{
     nav ul{
         grid-template-columns: 1fr;
     }
-
+  .top-container{
+      grid-template-columns: 1fr;
+  }
+  .boxes{
+        grid-template-columns: 1fr;
+  }
+  .cards{
+       grid-template-columns: 1fr;
+  }
 }
