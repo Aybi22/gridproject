@@ -173,7 +173,7 @@ h1{
 
 .boxes{
         display:grid;
-        grid-template-columns: repeat(auto-fit,1fr);
+        grid-template-columns: repeat(auto-fit,300px);
         width:100%;
         gap:11px;
         
@@ -187,7 +187,7 @@ h1{
           
 }
 
-footer{
+footer{ne
     font-size:0.8rem;
     color:#FFF;
     background:#000;
