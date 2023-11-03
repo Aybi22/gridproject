@@ -89,7 +89,7 @@ img{
      width:400px;
 }
 h1{
-    font-size:25px;
+    font-size:1.4rem;
 }
 
 
@@ -105,7 +105,7 @@ h1{
      color:#ffffff;
      text-transform:capitalize;
      padding:9px 14px;
-     font-size:x-small;
+     font-size:0.6rem;
      font-weight:900;
      margin-top:12px;
 }
@@ -150,7 +150,7 @@ h1{
     gap:7px;
 }
 .title{
-     font-size:12px;
+     font-size:0.9rem;
      text-transform:capitalize;
      margin-top:11px;
     font-weight:900;
