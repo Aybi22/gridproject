@@ -23,6 +23,8 @@ body{
 section{
     margin-bottom: 23px;
     margin-top: 23px;
+    border-bottom: 4px solid black;
+    padding:11px;
     
 }
 
