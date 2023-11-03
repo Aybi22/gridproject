@@ -193,7 +193,7 @@ footer{
     
 }
 
-@media screen and (max-width:600px){
+@media screen and (max-width:700px){
     nav ul{
         grid-template-columns: 1fr;
     }
@@ -206,4 +206,12 @@ footer{
   .cards{
        grid-template-columns: 1fr;
   }
+}
+
+
+@media screen and (max-width:500px){
+        .cards{
+              grid-template-columns: 1fr;
+        }
+
 }
