@@ -205,7 +205,13 @@ footer{
   }
   .cards{
        grid-template-columns: 1fr;
+      
   }
+   .box-container{
+       grid-template-columns: 1fr;
+   }
+
+
 }
 
 
