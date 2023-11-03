@@ -29,6 +29,7 @@ section{
 img{
     display:block;
     object-fit:cover;
+    max-width: 100%;
 }
 
 li{
@@ -65,10 +66,10 @@ nav li{
 .top-container{
            
             border:4px solid black;
-            
+           
             display:grid;
-            grid-template-columns:repeat(3,1fr);
-            grid-gap:22px;
+            grid-template-columns:repeat(auto-fit,1fr);
+            
 }
 
 .image{
