@@ -70,7 +70,7 @@ nav li{
 
 .top-container{
            
-          
+             width:100%;
             grid-gap:22px;
             display:grid;
             grid-template-columns:repeat(auto-fit,600px);
@@ -119,6 +119,7 @@ h1{
 .box-container{
             display:grid;
             grid-template-columns: repeat(2,1fr);
+            width:100%;
 }
 
 
@@ -150,7 +151,7 @@ h1{
 
 .cards{
     display:grid;
-   
+    width:100%;
     grid-template-columns:repeat(auto-fit,300px);
     gap:7px;
 }
